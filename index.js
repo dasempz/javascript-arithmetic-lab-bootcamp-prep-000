@@ -28,21 +28,3 @@ function makeInt(n){
 function preserveDecimal(n){
   return parseFloat(n);
 }
-
-
-
-
-/*function makeInt(n){
-  parseFloat('10', 10);
-  return n;
-}
-
-function preserveDecimal(){
-  n = parseFloat('2.222');
-  return n;
-}
-
-*/
-
-
-
